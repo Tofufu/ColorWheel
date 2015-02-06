@@ -1,5 +1,5 @@
 Check out more about my project and how I use this on:
-<b>http://chubbichow.blogspot.com/</b>
+http://chubbichow.blogspot.com/
 
 This is a color wheel drawn using OpenCV's circle class.
 Color wheel consists of 12 colors.
